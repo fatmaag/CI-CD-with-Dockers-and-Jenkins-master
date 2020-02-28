@@ -1,6 +1,5 @@
-def CONTAINER_NAME="jenkins-pipeline"
-def CONTAINER_TAG="lts"
-def DOCKER_HUB_USER="fatma1995"
+def CONTAINER_NAME="pipeline"
+def CONTAINER_TAG="latest"
 def HTTP_PORT="8090"
 
 node {
